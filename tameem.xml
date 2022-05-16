@@ -1,0 +1,49 @@
+<EmployeeTable>
+
+
+<Employee Id="1">
+<Id> 10236 </Id>
+<Name> Ahsan </Name>
+<Salary> 50000 </Salary>
+<JoiningDate> 02-04-2021 </JoiningDate>
+<Position> Manager </Position>
+</Employee>
+
+
+<Employee Id="2">
+<Id> 10237 </Id>
+<Name> Hadi </Name>
+<Salary> 20000 </Salary>
+<JoiningDate> 03-02-2021 </JoiningDate>
+<Position> Agent </Position>
+</Employee>
+
+
+<Employee Id="3">
+<Id> 10238 </Id>
+<Name> Nehal </Name>
+<Salary> 25000 </Salary>
+<JoiningDate> 05-05-2021 </JoiningDate>
+<Position> Receptionist </Position>
+</Employee>
+
+
+<Employee Id="4">
+<Id> 10239 </Id>
+<Name> Ali </Name>
+<Salary> 32000 </Salary>
+<JoiningDate> 05-06-2022 </JoiningDate>
+<Position> Accountant </Position>
+</Employee>
+
+
+<Employee Id="5">
+<Id> 10240 </Id>
+<Name> Shehroz </Name>
+<Salary> 15000 </Salary>
+<JoiningDate> 06-09-2022 </JoiningDate>
+<Position> Admin </Position>
+</Employee>
+
+
+</EmployeeTable>
